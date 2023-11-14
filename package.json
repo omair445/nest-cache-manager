@@ -1,7 +1,7 @@
 {
   "name": "nest-cache-manager",
   "version": "1.2.1",
-  "repository": "",
+  "repository": "https://github.com/omair445/nest-cache-manager.git",
   "description": "Package to manage the Redis Cache for api response ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
